@@ -1,0 +1,6 @@
+# Environment variables and secrets
+.env
+*.env
+*.pem
+__pycache__/
+*.pyc
